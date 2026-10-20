@@ -1,5 +1,5 @@
 export const NOTE_NAMES = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
-
+//hey my name is gabriel
     export const CHORD_DATABASE = {
       Beginner: {
         timePerChord: 30,
